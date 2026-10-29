@@ -1,0 +1,8 @@
+# Funded Hero Futures Discount Codes
+
+This dataset tracks historical deal observations for Funded Hero Futures from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (65%)
+Works any time on all Funded Hero Futures challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/funded-hero-futures/
