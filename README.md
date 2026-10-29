@@ -62,4 +62,4 @@ This repository tracks all historical deals for **Funded Hero Futures** publishe
 
 ---
 
-Last synced: 2026-10-29T02:42:32Z (auto, hourly)
+Last synced: 2026-10-29T06:31:55Z (auto, hourly)
