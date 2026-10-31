@@ -83,7 +83,7 @@ Total deals tracked: **12**
 | 2026-09-01 | 55% Off Any Account Size Initial Purchase | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-all-accounts/) |
 | 2026-08-24 | 65% Off All Instant Evaluation Pricing | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-65-off-instant-accounts/) |
 | 2026-08-19 | 60% Off All Challenge Plans | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-60-off-all-accounts/) |
-| 2026-07-03 | Save 70% on Upfront Entry Cost Across All Trading Challenges | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-independence-day/) |
+| 2026-07-03 | Save 70% on Upfront Entry Cost Across All Trading Challenges | 70% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-independence-day/) |
 | 2026-06-11 | 70% Off All Accounts Upfront Fee | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-accounts/) |
 | 2026-05-02 | 55% Off Challenge Pricing Limited Time Offer | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-evaluations/) |
 | 2026-03-13 | 50% Off Challenge Pricing and $200K Evaluation Giveaway | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-50-discount-200k-giveaway/) |
