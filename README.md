@@ -57,25 +57,25 @@ Total deals tracked: **12**
 
 ### 2026 (10 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-09-25 | 55% Off Challenge Pricing Plus BOGO Account | 55% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/) |
-| 2026-09-10 | 70% Discount on 10k to 100k Instant Account Initial Entry Pricing | 70% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-10k-100k-instant-accounts/) |
-| 2026-09-01 | 55% Off Any Account Size Initial Purchase | 55% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-all-accounts/) |
-| 2026-08-24 | 65% Off All Instant Evaluation Pricing | 65% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-65-off-instant-accounts/) |
-| 2026-08-19 | 60% Off All Challenge Plans | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-60-off-all-accounts/) |
-| 2026-07-03 | Save 70% on Upfront Entry Cost Across All Trading Challenges | 70% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-independence-day/) |
-| 2026-06-11 | 70% Off All Accounts Upfront Fee | 70% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-accounts/) |
-| 2026-05-02 | 55% Off Challenge Pricing Limited Time Offer | 55% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-evaluations/) |
-| 2026-03-13 | 50% Off Challenge Pricing and $200K Evaluation Giveaway | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-50-discount-200k-giveaway/) |
-| 2026-03-11 | 50% Off Challenge Pricing and 20% Payout Bonus for All Accounts | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-50-off-20-bonus-all-accounts/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-09-25 | 55% Off Challenge Pricing Plus BOGO Account | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/) |
+| 2026-09-10 | 70% Discount on 10k to 100k Instant Account Initial Entry Pricing | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-10k-100k-instant-accounts/) |
+| 2026-09-01 | 55% Off Any Account Size Initial Purchase | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-all-accounts/) |
+| 2026-08-24 | 65% Off All Instant Evaluation Pricing | 65% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-65-off-instant-accounts/) |
+| 2026-08-19 | 60% Off All Challenge Plans | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-60-off-all-accounts/) |
+| 2026-07-03 | Save 70% on Upfront Entry Cost Across All Trading Challenges | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-independence-day/) |
+| 2026-06-11 | 70% Off All Accounts Upfront Fee | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-accounts/) |
+| 2026-05-02 | 55% Off Challenge Pricing Limited Time Offer | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-evaluations/) |
+| 2026-03-13 | 50% Off Challenge Pricing and $200K Evaluation Giveaway | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-50-discount-200k-giveaway/) |
+| 2026-03-11 | 50% Off Challenge Pricing and 20% Payout Bonus for All Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-50-off-20-bonus-all-accounts/) |
 
 ### 2025 (2 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-12-12 | Rule Update Promo: 55% Off + Relaxed Rules | 55% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-rule-update-55-off/) |
-| 2025-11-04 | Funded Hero Futures 90% OFF — Launch Celebration (Limited Time) | 90% off | Ended | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-90-off-launch-limited-time/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-12-12 | Rule Update Promo: 55% Off + Relaxed Rules | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-rule-update-55-off/) |
+| 2025-11-04 | Funded Hero Futures 90% OFF — Launch Celebration (Limited Time) | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-90-off-launch-limited-time/) |
 
 ---
 
@@ -102,6 +102,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
