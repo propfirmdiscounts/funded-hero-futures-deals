@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: fundedherofutures
   FIRM_SLUG: funded-hero-futures
   DEALSTORE_ID: 193
   FIRM_NAME: Funded Hero Futures
