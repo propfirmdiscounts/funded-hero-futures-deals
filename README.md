@@ -1,6 +1,6 @@
 # Funded Hero Futures - Discount Codes & Deal History
 
-As of 2026-11, Funded Hero Futures deals run 65% OFF with code PFD, which works any time — the newest is 55% Off Challenge Pricing Plus BOGO Account.
+As of November 2026, Funded Hero Futures deals offer 65% OFF with code PFD, which can be applied on the checkout page anytime.
 
 > FundedHero Futures is a futures proprietary trading firm built for traders who want to trade with firm capital instead of risking their own savings.
 > How it works: pick an account, pass the evaluation by trading within the rules, and get funded. We keep our programs simple so you always know where you stand.
