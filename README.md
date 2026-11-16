@@ -1,6 +1,6 @@
 # Funded Hero Futures - Discount Codes & Deal History
 
-As of November 2026, Funded Hero Futures deals offer 65% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified Funded Hero Futures discount code is PFD — 65% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Challenge Pricing Plus BOGO Account with code PFD".
 
 > FundedHero Futures is a futures proprietary trading firm built for traders who want to trade with firm capital instead of risking their own savings.
 > How it works: pick an account, pass the evaluation by trading within the rules, and get funded. We keep our programs simple so you always know where you stand.
@@ -21,11 +21,11 @@ As of November 2026, Funded Hero Futures deals offer 65% OFF with code PFD, whic
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-25
 - Trustpilot: [4/5 (22 reviews)](https://www.trustpilot.com/review/fundedherofutures.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/funded-hero-futures-deals](https://github.com/propfirmdiscounts/funded-hero-futures-deals)
-- Activate: [https://propfirmdiscount.com/go/fundedherofutures](https://propfirmdiscount.com/go/fundedherofutures)
-- Firm page: [https://propfirmdiscount.com/prop-firm/funded-hero-futures/](https://propfirmdiscount.com/prop-firm/funded-hero-futures/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Funded Hero Futures Deals Repository](https://github.com/propfirmdiscounts/funded-hero-futures-deals)
+- Activate: [Activate Funded Hero Futures Discount Code](https://propfirmdiscount.com/go/fundedherofutures)
+- Firm page: [Funded Hero Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/funded-hero-futures/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Funded Hero Futures API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Funded Hero Futures deal: 55% Off Challenge Pricing Plus BOGO Account with code PFD
 
@@ -34,7 +34,7 @@ As of November 2026, Funded Hero Futures deals offer 65% OFF with code PFD, whic
 - Offer: 55% off
 - Scope: All Accounts
 - Code: PFD
-- Deal page: [https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/)
+- Deal page: [Funded Hero Futures Deal Page](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/)
 
 ## Funded Hero Futures discount code FAQ
 
@@ -84,9 +84,9 @@ Total deals tracked: **12**
 
 This repository mirrors every deal **Funded Hero Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/funded-hero-futures/](https://propfirmdiscount.com/prop-firm/funded-hero-futures/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Funded Hero Futures Profile](https://propfirmdiscount.com/prop-firm/funded-hero-futures/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/funded-hero-futures-deals.json`
 
@@ -129,4 +129,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
