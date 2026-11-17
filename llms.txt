@@ -1,4 +1,4 @@
-# Funded Hero Futures Discount Codes
+# Funded Hero Futures Discount Code & Deals History
 
 This dataset tracks historical deal observations for Funded Hero Futures from PropFirmDiscount.com.
 

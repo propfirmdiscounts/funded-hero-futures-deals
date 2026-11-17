@@ -1,4 +1,4 @@
-# Funded Hero Futures Discount Code & Deal History
+# Funded Hero Futures Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Funded Hero Futures discount code is PFD — 65% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Challenge Pricing Plus BOGO Account with code PFD".
 
@@ -21,7 +21,7 @@ As of November 2026, the verified Funded Hero Futures discount code is PFD — 6
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-09-25
 - Trustpilot: [4.2/5 (33 reviews)](https://www.trustpilot.com/review/fundedherofutures.com)
-- GitHub repository: [Funded Hero Futures Deals Repository](https://github.com/propfirmdiscounts/funded-hero-futures-deals)
+- GitHub repository: [Funded Hero Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/funded-hero-futures-deals)
 - Activate: [Activate Funded Hero Futures Discount Code](https://propfirmdiscount.com/go/fundedherofutures)
 - Firm page: [Funded Hero Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/funded-hero-futures/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -36,7 +36,7 @@ As of November 2026, the verified Funded Hero Futures discount code is PFD — 6
 - Code: PFD
 - Deal page: [Funded Hero Futures Deal Page](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/)
 
-## Funded Hero Futures Discount Code & Deals FAQ
+## Funded Hero Futures Discount Code & Deals History FAQ
 
 **What is the Funded Hero Futures discount code?**
 
@@ -52,7 +52,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Funded Hero Futures Deal History
+## Funded Hero Futures Deals History
 
 Total deals tracked: **12**
 
@@ -80,7 +80,7 @@ Total deals tracked: **12**
 
 ---
 
-## About the Funded Hero Futures Deals Dataset
+## About the Funded Hero Futures Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Funded Hero Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -88,7 +88,7 @@ This repository mirrors every deal **Funded Hero Futures** has published on Prop
 - Prop firm profile: [Funded Hero Futures Profile](https://propfirmdiscount.com/prop-firm/funded-hero-futures/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Funded Hero Futures Deal Dataset: Field Definitions
+## Funded Hero Futures Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
