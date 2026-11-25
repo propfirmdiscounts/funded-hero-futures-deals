@@ -1,6 +1,6 @@
 # Funded Hero Futures Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Funded Hero Futures discount code is PFD — 65% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Challenge Pricing Plus BOGO Account (code PFD)".
+As of November 2026, the verified Funded Hero Futures discount code is PFD — 70% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Challenge Pricing Plus BOGO Account (code PFD)".
 
 > FundedHero Futures is a futures proprietary trading firm built for traders who want to trade with firm capital instead of risking their own savings.
 > How it works: pick an account, pass the evaluation by trading within the rules, and get funded. We keep our programs simple so you always know where you stand.
@@ -17,9 +17,9 @@ As of November 2026, the verified Funded Hero Futures discount code is PFD — 6
 > — Funded Hero Futures, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundedherofutures.com)
 
 - Code: PFD
-- Discount: 65% off (what the code takes off the firm's newest deal; it applies to every Funded Hero Futures deal, whatever form that deal is stated in)
+- Discount: 70% off (what the code takes off the firm's newest deal; it applies to every Funded Hero Futures deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-09-25
+- Last deal published: 2026-11-25
 - Trustpilot: [4.2/5 (32 reviews)](https://www.trustpilot.com/review/fundedherofutures.com)
 - GitHub repository: [Funded Hero Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/funded-hero-futures-deals)
 - Activate: [Activate Funded Hero Futures Discount Code](https://propfirmdiscount.com/go/fundedherofutures)
@@ -40,7 +40,7 @@ As of November 2026, the verified Funded Hero Futures discount code is PFD — 6
 
 **What is the Funded Hero Futures discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 65% off Funded Hero Futures challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 70% off Funded Hero Futures challenges and accounts.
 
 **Does the Funded Hero Futures discount code expire?**
 
