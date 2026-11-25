@@ -1,6 +1,6 @@
 # Funded Hero Futures Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Funded Hero Futures discount code is PFD — 70% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Challenge Pricing Plus BOGO Account (code PFD)".
+As of November 2026, the verified Funded Hero Futures discount code is PFD — 70% OFF, which can be applied on the checkout page anytime. The newest is "Welcome Offer, 70% Off Futures (code PFD)".
 
 > FundedHero Futures is a futures proprietary trading firm built for traders who want to trade with firm capital instead of risking their own savings.
 > How it works: pick an account, pass the evaluation by trading within the rules, and get funded. We keep our programs simple so you always know where you stand.
@@ -27,14 +27,14 @@ As of November 2026, the verified Funded Hero Futures discount code is PFD — 7
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Funded Hero Futures API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Funded Hero Futures deal: 55% Off Challenge Pricing Plus BOGO Account (code PFD)
+## Latest Funded Hero Futures deal: Welcome Offer, 70% Off Futures (code PFD)
 
-- Published: 2026-09-25
-- Offer ends: Ended
-- Offer: 55% off
-- Scope: All Accounts
+- Published: 2026-11-25
+- Offer ends: Limited time
+- Offer: 70% off
+- Scope: Futures Accounts
 - Code: PFD
-- Deal page: [Funded Hero Futures Deal Page](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/)
+- Deal page: [Funded Hero Futures Deal Page](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-welcome-offer-70-off-futures-accounts/)
 
 ## Funded Hero Futures Discount Code & Deals History FAQ
 
@@ -48,18 +48,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Funded Hero Futures deal?**
 
-**55% Off Challenge Pricing Plus BOGO Account (code PFD)** — published 2026-09-25. Offer ends: Ended. The offer is 55% off.
+**Welcome Offer, 70% Off Futures (code PFD)** — published 2026-11-25. Offer ends: Limited time. The offer is 70% off.
 
 ---
 
 ## Funded Hero Futures Deals History
 
-Total deals tracked: **12**
+Total deals tracked: **13**
 
-### 2026 (10 deals)
+### 2026 (11 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-25 | Funded Hero Futures: Welcome Offer, 70% Off Futures (code PFD) | 70% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-welcome-offer-70-off-futures-accounts/) |
 | 2026-09-25 | Funded Hero Futures: 55% Off Challenge Pricing Plus BOGO Account (code PFD) | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-bogo/) |
 | 2026-09-10 | Funded Hero Futures: 70% Discount on 10k to 100k Instant Account Initial Entry Pricing (code PFD) | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-70-off-10k-100k-instant-accounts/) |
 | 2026-09-01 | Funded Hero Futures: 55% Off Any Account Size Initial Purchase (code PFD) | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/funded-hero-futures/funded-hero-futures-55-off-all-accounts/) |
